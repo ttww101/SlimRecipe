@@ -1,0 +1,6 @@
+framework module Pods_SlimRecipe {
+  umbrella header "Pods-SlimRecipe-umbrella.h"
+
+  export *
+  module * { export * }
+}
